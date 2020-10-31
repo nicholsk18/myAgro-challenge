@@ -70,4 +70,5 @@ const getDaysOfPower = (dayOneRate, startDay1, dayTwoRate, startDay2, dayThreeRa
     return totalDaysOfPower;
 }
 
+// export for testing
 module.exports = getDaysOfPower
